@@ -1,1 +1,4 @@
-# Diabetes-Prediction
+# Diabetes-Prediction  
+This project aims to predict the likelihood of a person having diabetes using various Machine Learning algorithms. It uses a GUI built with Tkinter and a well-known dataset (Pima Indians Diabetes Dataset) to provide predictions based on medical attributes.
+
+The model is trained to analyze health indicators like glucose level, BMI, age, and more to determine diabetes risk. The GUI allows users to input values easily and receive instant predictions with high accuracy. Behind the scenes, the data is preprocessed and normalized for optimal model performance. A Random Forest Classifier is used due to its robustness and ability to handle imbalanced datasets well. The project serves as a practical demonstration of how AI can assist in early disease prediction and healthcare decision-making.
